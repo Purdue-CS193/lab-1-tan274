@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
-loool hahaha xdxd
-dwadwadwa
+## Stephen Tan's first CS193 Lab 
 
-dwadwa
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My favorite things about CS193
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -20,6 +19,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- the fact that we are learning technical things somewhat outside of cs
+- learning information that would be extremely beneficial in the future
+- having TAs that can help you if needed
+- comforting and supportive environment
+
 
 1. Numbered
 2. List
