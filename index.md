@@ -15,8 +15,8 @@ Syntax highlighted code block
 
 # My favorite things about CS193
 
-- Bulleted
-- List
+- Bulleted List
+
 - the fact that we are learning technical things somewhat outside of cs
 - learning information that would be extremely beneficial in the future
 - having TAs that can help you if needed
@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
